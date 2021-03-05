@@ -18,7 +18,7 @@
     <name>pet-clinic</name>
     <description>Demo project of spring pet-clinic for training purposes</description>
     <properties>
-        <java.version>15.0.1</java.version>
+        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
